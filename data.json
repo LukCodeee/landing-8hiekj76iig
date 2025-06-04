@@ -1,376 +1,376 @@
 {
-    "root": {
-        "props": {
-            "title": "test"
+  "root": {
+    "props": {
+      "title": "test"
+    }
+  },
+  "zones": {},
+  "content": [
+    {
+      "type": "Hero",
+      "props": {
+        "id": "Hero-37f719f5-c8d1-4700-83bd-57f3713fd5ca",
+        "title": "Build Stunning\nSites with Ease",
+        "tagline": "Tailored for Creative Agencies",
+        "description": "Empower your agency with a design-focused website builder that combines pixel-perfect customization and effortless workflow to deliver client projects faster and with unparalleled style.",
+        "highlightedWord": "Build",
+        "primaryButtonDetails": {
+          "primaryButtonLink": "#get-started",
+          "primaryButtonText": "Start Your Demo"
+        },
+        "secondaryButtonDetails": {
+          "secondaryButtonLink": "#features",
+          "secondaryButtonText": "Explore Features",
+          "showSecondaryButton": false
         }
+      }
     },
-    "zones": {},
-    "content": [
-        {
-            "type": "Hero1",
-            "props": {
-                "id": "Hero1-793ea387-eb75-44f5-b59e-ae54ef718d25",
-                "title": "Create Impactful Videos with AI",
-                "tagline": "AI VIDEO CREATION",
-                "description": "Harness the power of AI to effortlessly produce captivating social media videos that drive engagement and grow your brand. Customize professional styles, optimize for every platform, and turn ideas into scroll-stopping content in minutes—no editing experience needed.",
-                "highlightedWord": "Impactful",
-                "primaryButtonDetails": {
-                    "primaryButtonLink": "#get-started",
-                    "primaryButtonText": "Start Creating Now"
-                },
-                "secondaryButtonDetails": {
-                    "secondaryButtonLink": "#features",
-                    "secondaryButtonText": "Discover Features",
-                    "showSecondaryButton": false
-                }
+    {
+      "type": "ProblemBlock",
+      "props": {
+        "id": "ProblemBlock-80ebecfa-8966-4921-8282-281ac84dc9b0",
+        "highlightedWord": "Design",
+        "comparisonHeadline": "Design-First Builder vs Generic Platforms",
+        "visualBuilderDetails": {
+          "visualBuilderTitle": "Create Stunning Sites with PixelPerfect Pro",
+          "visualBuilderAdvantages": [
+            {
+              "advantageIcon": "ClipboardList",
+              "advantageTitle": "Tailored for Agencies",
+              "advantageDescription": "Craft unique, client-ready websites with a builder designed specifically to meet agency workflows and brand standards."
+            },
+            {
+              "advantageIcon": "Timer",
+              "advantageTitle": "Precision Design Controls",
+              "advantageDescription": "Harness advanced visual editing tools that ensure pixel-perfect layouts and responsive designs on all devices effortlessly."
+            },
+            {
+              "advantageIcon": "DollarSign",
+              "advantageTitle": "Faster Delivery & Higher ROI",
+              "advantageDescription": "Cut development time and scale your agency’s output with our efficient builder built for speed without compromising style."
             }
+          ]
         },
-        {
-            "type": "ProblemBlock1",
-            "props": {
-                "id": "ProblemBlock1-5ea79086-d665-482d-88a3-cb2b0045dc05",
-                "highlightedWord": "Creation",
-                "comparisonHeadline": "AI-Powered Video Creation vs Manual Editing Hassles",
-                "visualBuilderDetails": {
-                    "visualBuilderTitle": "Create with VidBot",
-                    "visualBuilderAdvantages": [
-                        {
-                            "advantageIcon": "ClipboardList",
-                            "advantageTitle": "Instant Social-Ready Videos",
-                            "advantageDescription": "Produce stunning, optimized videos for Instagram, TikTok, Facebook and beyond in minutes, powered by smart AI templates designed for maximum platform impact."
-                        },
-                        {
-                            "advantageIcon": "Timer",
-                            "advantageTitle": "Seamless Automation",
-                            "advantageDescription": "Effortlessly automate editing and tailor content to your audience with intelligent tools that save time and keep your social feed dynamic daily."
-                        },
-                        {
-                            "advantageIcon": "DollarSign",
-                            "advantageTitle": "Boost Engagement & Growth",
-                            "advantageDescription": "Elevate your brand’s reach with captivating videos engineered to amplify shares, increase followers, and accelerate conversions faster than traditional video methods."
-                        }
-                    ]
-                },
-                "comparisonSubheadline": "Discover how VidBot transforms social video creation with lightning-fast AI tools that align perfectly with your brand’s voice",
-                "traditionalDevDetails": {
-                    "traditionalDevTitle": "The Struggles of Classic Video Production",
-                    "traditionalDevDrawbacks": [
-                        {
-                            "drawbackText": "Cumbersome, time-intensive editing"
-                        },
-                        {
-                            "drawbackText": "Expensive professional editing fees"
-                        },
-                        {
-                            "drawbackText": "Inconsistent messaging and branding"
-                        },
-                        {
-                            "drawbackText": "Scaling content output feels impossible"
-                        },
-                        {
-                            "drawbackText": "Slow turnaround stifles social momentum"
-                        },
-                        {
-                            "drawbackText": "Hard to adapt quickly to trending content"
-                        }
-                    ]
-                },
-                "callToActionButtonLink": "#get-started",
-                "callToActionButtonText": "Create Viral Videos Today",
-                "closingCallToActionText": "Join thousands revolutionizing their social presence with VidBot’s AI-powered video generator designed for creators like you"
+        "comparisonSubheadline": "Discover how a design-focused builder empowers agencies to deliver high-impact websites with ease",
+        "traditionalDevDetails": {
+          "traditionalDevTitle": "Challenges with Generic Builders",
+          "traditionalDevDrawbacks": [
+            {
+              "drawbackText": "Limited customization options that stifle creativity"
+            },
+            {
+              "drawbackText": "Cumbersome interfaces slowing down project delivery"
+            },
+            {
+              "drawbackText": "Inflexible templates leading to cookie-cutter sites"
+            },
+            {
+              "drawbackText": "Frustrating multi-platform inconsistencies"
+            },
+            {
+              "drawbackText": "Difficulty managing multiple client projects efficiently"
+            },
+            {
+              "drawbackText": "Lack of agency-focused collaboration tools"
             }
+          ]
         },
-        {
-            "type": "Solution1",
-            "props": {
-                "id": "Solution1-acf2f781-7372-4cd9-bbea-1c4b7414d373",
-                "ctaButton": {
-                    "buttonLink": "#try-for-free",
-                    "buttonText": "Make Your First Video Now",
-                    "showButton": true
-                },
-                "headerContent": {
-                    "mainTitle": "Create Videos That Captivate",
-                    "description": "Instantly produce eye-catching social media videos with AI precision tailored to your brand. No experience needed—just powerful content that connects and converts."
-                },
-                "solutionItems": [
-                    {
-                        "solutionTitle": "Dynamic Templates",
-                        "solutionSubTitle": "Custom videos in moments.",
-                        "solutionDescription": "Access a diverse collection of AI-enhanced templates engineered to maximize engagement while reflecting your unique style—launch viral-ready content effortlessly."
-                    },
-                    {
-                        "solutionTitle": "AI-Driven Editing",
-                        "solutionSubTitle": "Flawless, pro-quality edits.",
-                        "solutionDescription": "Leverage smart editing tools that automatically add seamless transitions, perfect cuts, and vibrant effects—making every video look polished and professional without the hassle."
-                    },
-                    {
-                        "solutionTitle": "Social Media Optimized",
-                        "solutionSubTitle": "Perfect fit for every platform.",
-                        "solutionDescription": "Export videos perfectly sized and formatted for Instagram, TikTok, Facebook, YouTube, and more—eliminate manual adjustments and reach your audience with precision."
-                    }
-                ]
-            }
+        "callToActionButtonLink": "#get-started",
+        "callToActionButtonText": "Build Beautiful Sites Now",
+        "closingCallToActionText": "Join leading agencies transforming web design with PixelPerfect Pro"
+      }
+    },
+    {
+      "type": "Solution",
+      "props": {
+        "id": "Solution-d2271dac-8476-4583-a911-81c4e560387d",
+        "ctaButton": {
+          "buttonLink": "#get-started",
+          "buttonText": "Build Your First Site",
+          "showButton": true
         },
-        {
-            "type": "SocialProof1",
-            "props": {
-                "id": "SocialProof1-b7a2f0f1-c8c2-4599-ac15-b362e68ea90c",
-                "title": "Loved by Social Creators and Brands",
-                "description": "Hear from our users making waves on social media:",
-                "testimonials": [
-                    {
-                        "quote": "Since switching to this AI Video Generator, our engagement skyrocketed and content creation is effortless.",
-                        "title": "Social Media Manager, BrightBrand",
-                        "author": "Jack Sibire",
-                        "rating": 5,
-                        "avatarId": 4,
-                        "highlightedText": "engagement skyrocketed"
-                    },
-                    {
-                        "quote": "This tool transformed our video strategy—fast, intuitive, and perfect for social platforms.",
-                        "title": "Content Director, Mousio",
-                        "author": "Adele Mouse",
-                        "rating": 5,
-                        "avatarId": 5,
-                        "highlightedText": "transformed our video strategy"
-                    },
-                    {
-                        "quote": "The AI-driven features save us hours while boosting video quality unlike anything else we've tried.",
-                        "title": "CTO, Clockwork",
-                        "author": "Ben Clock",
-                        "rating": 5,
-                        "avatarId": 6,
-                        "highlightedText": "AI-driven features save us hours"
-                    }
-                ],
-                "titleHighlightedText": "2,047+ creators"
-            }
+        "headerContent": {
+          "mainTitle": "Design Websites That Wow",
+          "description": "Empower your agency with a website builder crafted for design pros who demand pixel-perfect control, lightning-fast workflows, and standout client sites that truly reflect your creativity."
         },
-        {
-            "type": "Features1",
-            "props": {
-                "id": "Features1-03643de3-fc61-4dd1-b1c5-47c573dea47c",
-                "label": "- FEATURE 1",
-                "title": "Create stunning videos instantly with ",
-                "button": {
-                    "link": "#try-for-free",
-                    "show": true,
-                    "text": "Get Started Free"
-                },
-                "description": "Our AI-powered video generator crafts eye-catching social media content in seconds, using smart templates and real-time customization to boost your engagement and save time.",
-                "titleHighlightedText": "AI"
-            }
+        "solutionItems": [
+          {
+            "solutionTitle": "Pixel-Perfect Visual Editor",
+            "solutionSubTitle": "Design with total freedom.",
+            "solutionDescription": "Craft stunning, fully responsive websites using our intuitive drag-and-drop editor built specifically for agencies, no coding required but with advanced options when you need them."
+          },
+          {
+            "solutionTitle": "Agency-Ready Collaboration",
+            "solutionSubTitle": "Streamline team workflows.",
+            "solutionDescription": "Keep your projects moving with real-time multi-user editing, client feedback integration, and seamless handoffs that save time and elevate your agency’s output."
+          },
+          {
+            "solutionTitle": "Customizable Client Experiences",
+            "solutionSubTitle": "Tailor every project.",
+            "solutionDescription": "Deliver bespoke sites with flexible templates, white-label options, and powerful branding tools that let your agency showcase its unique style and offer clients truly differentiated websites."
+          }
+        ]
+      }
+    },
+    {
+      "type": "SocialProof",
+      "props": {
+        "id": "SocialProof-e7936c08-b23c-4377-9d0f-479e555c3466",
+        "title": "Agencies build stunning sites with",
+        "description": "Discover why top agencies choose us:",
+        "testimonials": [
+          {
+            "quote": "Our creative team accelerated client delivery by 40% thanks to the intuitive design tools and seamless collaboration features.",
+            "title": "Creative Director, PixelWave",
+            "author": "Maya Thompson",
+            "rating": 5,
+            "avatarId": 4,
+            "highlightedText": "40% faster delivery"
+          },
+          {
+            "quote": "The pixel-perfect templates and flexible builder let us craft unique, high-impact websites that wow clients every time.",
+            "title": "Lead Designer, BoldCraft",
+            "author": "Raj Patel",
+            "rating": 5,
+            "avatarId": 5,
+            "highlightedText": "pixel-perfect designs"
+          },
+          {
+            "quote": "This platform’s agency-focused features streamlined our workflow, empowered clients with customization, and boosted project approvals.",
+            "title": "Project Manager, Nexus Agency",
+            "author": "Olivia Martinez",
+            "rating": 5,
+            "avatarId": 6,
+            "highlightedText": "streamlined workflow"
+          }
+        ],
+        "titleHighlightedText": "5,000+ agencies"
+      }
+    },
+    {
+      "type": "Features",
+      "props": {
+        "id": "Features-5b20ead3-0d8f-47a0-8096-a9b3e0083cff",
+        "label": "- FEATURE 1",
+        "title": "Craft stunning sites with ",
+        "button": {
+          "link": "#try-for-free",
+          "show": true,
+          "text": "Build Your First Site"
         },
-        {
-            "type": "Features2",
-            "props": {
-                "id": "Features2-40e2e422-d254-4f8c-897b-bc0ea03cb1bd",
-                "label": "- FEATURE 2",
-                "title": "Create stunning videos the smart ",
-                "button": {
-                    "link": "#try-for-free",
-                    "show": true,
-                    "text": "Generate Your Video"
-                },
-                "description": "Our AI-powered video generator transforms your social media content with effortless automation, delivering eye-catching videos that boost engagement and save you hours of editing time.",
-                "titleHighlightedText": "way"
-            }
+        "description": "Empower your agency with a design-first website builder that combines intuitive drag-and-drop tools, pixel-perfect customization, and lightning-fast performance to elevate client projects. Deliver cutting-edge, responsive websites effortlessly while collaborating seamlessly with your team and clients all in one platform.",
+        "titleHighlightedText": "Design"
+      }
+    },
+    {
+      "type": "Features2",
+      "props": {
+        "id": "Features2-0c41e860-0774-487a-94a9-80ef1497ef78",
+        "label": "- FEATURE 2",
+        "title": "Effortless design control",
+        "button": {
+          "link": "#try-for-free",
+          "show": true,
+          "text": "Try design freedom now"
         },
-        {
-            "type": "Pricing1",
-            "props": {
-                "id": "Pricing1-c0155bec-0c50-4004-aeb5-7922d7fc6789",
-                "plans": [
-                    {
-                        "cta": "Try Basic Plan Now",
-                        "name": "Basic",
-                        "badge": "",
-                        "price": 9,
-                        "featured": false,
-                        "description": "Perfect for solo creators and new social media users",
-                        "featureFlags": [
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": false
-                            },
-                            {
-                                "value": false
-                            },
-                            {
-                                "value": false
-                            }
-                        ]
-                    },
-                    {
-                        "cta": "Level Up with Pro",
-                        "name": "Pro",
-                        "badge": "Most Popular",
-                        "price": 19,
-                        "featured": true,
-                        "description": "Ideal for influencers and growing brands craving more features",
-                        "featureFlags": [
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": false
-                            }
-                        ]
-                    },
-                    {
-                        "cta": "Unlock Business Power",
-                        "name": "Business",
-                        "badge": "",
-                        "price": 99,
-                        "featured": false,
-                        "description": "Built for agencies and enterprises demanding full customization",
-                        "featureFlags": [
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            }
-                        ]
-                    }
-                ],
-                "title": "Simple Pricing",
-                "features": [
-                    {
-                        "value": "Unlimited video projects"
-                    },
-                    {
-                        "value": "24/7 expert support"
-                    },
-                    {
-                        "value": "Brandable custom domains"
-                    },
-                    {
-                        "value": "In-depth AI analytics"
-                    }
-                ],
-                "description": "Transparent pricing that fits every creator’s budget without compromising power."
-            }
+        "description": "Empower your agency with precision design tools that let you craft stunning, fully customizable websites without code, streamlining client approvals and accelerating project delivery while elevating your brand’s creative edge.",
+        "titleHighlightedText": "design"
+      }
+    },
+    {
+      "type": "Pricing",
+      "props": {
+        "id": "Pricing-e4056ac3-8c0e-4464-a872-d7d3a4938c6c",
+        "plans": [
+          {
+            "cta": "Launch with Basic",
+            "name": "Basic",
+            "badge": "",
+            "price": 9,
+            "featured": false,
+            "description": "Perfect for freelancers designing sleek, responsive sites fast",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": false
+              },
+              {
+                "value": false
+              },
+              {
+                "value": false
+              }
+            ]
+          },
+          {
+            "cta": "Scale with Pro",
+            "name": "Pro",
+            "badge": "Most Popular",
+            "price": 19,
+            "featured": true,
+            "description": "Engineered for growing agencies crafting stunning multi-client portfolios",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": false
+              }
+            ]
+          },
+          {
+            "cta": "Lead with Business",
+            "name": "Business",
+            "badge": "",
+            "price": 99,
+            "featured": false,
+            "description": "Full-suite design tools, white-label options, and client management for agencies",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              }
+            ]
+          }
+        ],
+        "title": "Plans",
+        "features": [
+          {
+            "value": "Unlimited client projects and custom designs"
+          },
+          {
+            "value": "Priority 24/7 expert support for agencies"
+          },
+          {
+            "value": "White-label branding and custom domains"
+          },
+          {
+            "value": "Advanced collaboration and analytics tools"
+          }
+        ],
+        "description": "Tailored pricing to empower agencies with design-first websites that impress and convert clients effortlessly."
+      }
+    },
+    {
+      "type": "FAQ",
+      "props": {
+        "id": "FAQ-8e82d77e-f6a0-4628-b8da-d74ca4fc135a",
+        "faqs": [
+          {
+            "answer": "Our design-focused builder empowers agencies to craft stunning, pixel-perfect websites with a drag-and-drop interface built for speed and flexibility, no coding required.",
+            "question": "How does this website builder work?"
+          },
+          {
+            "answer": "Create bespoke, client-ready websites faster with collaborative tools, customizable templates, and intuitive design controls that elevate agency workflows and impress clients.",
+            "question": "What benefits does it offer agencies?"
+          },
+          {
+            "answer": "Absolutely! Our platform is designed for agencies of all sizes, featuring seamless team collaboration, version control, and real-time editing so everyone stays in sync.",
+            "question": "Is it easy to use for teams?"
+          },
+          {
+            "answer": "Yes, we provide flexible plans tailored to agency needs, including white-label options, volume discounts, and dedicated support to scale your business effortlessly.",
+            "question": "Are there custom pricing options?"
+          },
+          {
+            "answer": "Definitely. Get full access to all premium features with our 14-day free trial—no credit card required so you can see how it transforms your agency’s workflow risk-free.",
+            "question": "Can I try the platform before buying?"
+          },
+          {
+            "answer": "Simply click “Build Your Agency Site” at the top menu or visit our pricing page to choose your plan and start delivering award-winning websites today.",
+            "question": "How do I get started?"
+          }
+        ],
+        "title": "Got Questions?"
+      }
+    },
+    {
+      "type": "About",
+      "props": {
+        "id": "About-9c11aefe-4409-4535-aa55-3e090ecb69ac",
+        "label": "- MEET THE CREATOR",
+        "outro": "I'm passionate about empowering agencies to craft stunning, custom websites effortlessly. Join our community, see our updates, and help us shape the future of design-focused web building! 🚀",
+        "heading": "Hi, I'm Luke",
+        "subtitle": "Design-focused websites made simple",
+        "paragraphs": [
+          {
+            "value": "I designed this builder to give agencies a powerful toolkit that combines creative freedom with seamless functionality, enabling you to deliver exceptional websites for your clients without compromise."
+          },
+          {
+            "value": "Agencies often ask me:"
+          },
+          {
+            "value": "- How can I create pixel-perfect websites faster?\n- What’s the best way to customize templates without coding?\n- How do I streamline client collaboration and approval?"
+          },
+          {
+            "value": "My response: An intuitive platform crafted for agencies, packed with flexible design features, collaborative tools, and performance-driven infrastructure that sets your projects apart."
+          }
+        ],
+        "principles": [
+          {
+            "title": "Creative freedom unleashed",
+            "description": "Design every detail your clients imagine with drag-and-drop precision and no coding required"
+          },
+          {
+            "title": "Built for agencies",
+            "description": "Manage multiple client projects easily with tailored workflows and collaboration features made just for your team"
+          },
+          {
+            "title": "Performance & scalability",
+            "description": "Launch lightning-fast, SEO-optimized websites that grow with your clients’ businesses"
+          }
+        ]
+      }
+    },
+    {
+      "type": "CTA",
+      "props": {
+        "id": "CTA-16b14439-c3cc-4b73-a101-501f10dfd7ad",
+        "button": {
+          "link": "#start-scheduling",
+          "show": true,
+          "text": "Build Stunning Sites Now"
         },
-        {
-            "type": "FAQ1",
-            "props": {
-                "id": "FAQ1-0b107a8f-6fbf-4902-a384-280bc30c5097",
-                "faqs": [
-                    {
-                        "question": "How does the AI video generator work?",
-                        "answer": "Our AI-powered tool transforms your ideas into stunning social media videos in minutes, using advanced algorithms and customizable templates—no experience needed."
-                    },
-                    {
-                        "question": "What benefits can I expect?",
-                        "answer": "Create eye-catching videos faster, boost your social media engagement, save on production costs, and effortlessly scale your content strategy with our smart automation."
-                    },
-                    {
-                        "question": "Is it beginner-friendly?",
-                        "answer": "Definitely! Our intuitive interface lets anyone produce professional-quality videos without any editing skills or technical know-how."
-                    },
-                    {
-                        "question": "Can I get custom features or pricing?",
-                        "answer": "Yes! Reach out to our team for personalized plans tailored to your unique content goals and volume requirements."
-                    },
-                    {
-                        "question": "Is there a free trial available?",
-                        "answer": "Absolutely. Try all features free for 14 days with no credit card required and cancel anytime if it’s not the perfect fit."
-                    },
-                    {
-                        "question": "How do I get started?",
-                        "answer": "Click the 'Create Video' button on the top right or visit our pricing page to pick the best plan and start generating videos instantly."
-                    }
-                ],
-                "title": "FAQs"
-            }
-        },
-        {
-            "type": "About1",
-            "props": {
-                "id": "About1-f69c71a0-2c9a-4cbb-81b4-0e2aff409c85",
-                "label": "- DISCOVER OUR AI",
-                "outro": "Join thousands of creators transforming social media with effortless, stunning videos. Experience the future of video creation today! 🚀",
-                "heading": "Meet Your AI Video Partner",
-                "subtitle": "Transform your social media videos instantly.",
-                "paragraphs": [
-                    {
-                        "value": "Our AI Video Generator tool empowers you to create eye-catching social media videos in minutes, no editing skills needed."
-                    },
-                    {
-                        "value": "Content creators ask us:"
-                    },
-                    {
-                        "value": "- How can I save time on video production?\n- How do I make engaging videos that get noticed?"
-                    },
-                    {
-                        "value": "Our solution: smart automation paired with creative control for videos that stand out and drive engagement."
-                    }
-                ],
-                "principles": [
-                    {
-                        "title": "Effortless video creation",
-                        "description": "AI-driven templates and smart editing to produce professional videos in seconds"
-                    },
-                    {
-                        "title": "Tailored for social media",
-                        "description": "Optimized formats and styles designed to boost reach and engagement across platforms"
-                    },
-                    {
-                        "title": "Powerful yet simple",
-                        "description": "User-friendly interface with advanced AI features for creators at any skill level"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "CTA1",
-            "props": {
-                "id": "CTA1-899ad685-070f-4415-9413-81273bea7701",
-                "button": {
-                    "link": "#start-trial",
-                    "show": true,
-                    "text": "Create Stunning Videos Now"
-                },
-                "avatars": [
-                    {
-                        "avatarId": 32
-                    },
-                    {
-                        "avatarId": 44
-                    },
-                    {
-                        "avatarId": 65
-                    },
-                    {
-                        "avatarId": 75
-                    },
-                    {
-                        "avatarId": 12
-                    },
-                    {
-                        "avatarId": 68
-                    }
-                ],
-                "heading": "Elevate Your Social Reach",
-                "description": "Transform your social media with AI-powered video creation that’s fast, effortless, and tailored to captivate your audience.",
-                "foundersCount": 3582
-            }
-        }
-    ]
+        "avatars": [
+          {
+            "avatarId": 32
+          },
+          {
+            "avatarId": 44
+          },
+          {
+            "avatarId": 65
+          },
+          {
+            "avatarId": 75
+          },
+          {
+            "avatarId": 12
+          },
+          {
+            "avatarId": 68
+          }
+        ],
+        "heading": "Design with Purpose",
+        "description": "Empower your agency with our design-focused website builder that delivers pixel-perfect, responsive sites with intuitive drag-and-drop, seamless client collaboration, and advanced customization options—crafted to elevate your creative workflow and win more projects.",
+        "foundersCount": 3582
+      }
+    }
+  ]
 }
